@@ -5,12 +5,12 @@
  * @author LunarCraft
  * @authorId 896252800596582450
  * @source https://github.com/xmas-cal/betterdiscord/
- * @updateUrl https://github.com/xmas-cal/betterdiscord/blob/main/LunarThemeV1
+ * @updateUrl https://github.com/xmas-cal/betterdiscord/blob/main/lunarthemev1.theme.css
  */
 
 /* To change stuff like the colors, transparency and background image, change the variables inside the root {}, do NOT change the @import url() */
 
-@import url(https://github.com/xmas-cal/betterdiscord/blob/main/LunarThemeV1);
+@import url(https://github.com/xmas-cal/betterdiscord/blob/main/lunarthemev1.theme.css);
 
 :root {
 	--transparencycolor:			0,0,0;						/* default:	0,0,0																								*/
