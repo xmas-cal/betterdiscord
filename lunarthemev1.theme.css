@@ -10,7 +10,7 @@
 
 /* To change stuff like the colors, transparency and background image, change the variables inside the root {}, do NOT change the @import url() */
 
-@import url(https://github.com/xmas-cal/betterdiscord/blob/main/lunarthemev1.theme.css);
+@import url(https://github.com/xmas-cal/betterdiscord/blob/main/lunarthemev1.css);
 
 :root {
 	--transparencycolor:			0,0,0;						/* default:	0,0,0																								*/
